@@ -1,5 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/meKNgBF9)
-# Welcome to ○팀
+# Welcome to 1팀
 
 ## 1️⃣ 팀원 소개
 
@@ -43,7 +43,7 @@
 - 프로젝트 진행 ✔️  (과거 사람들이 생각한 미래1)
   - 그림에 그려져 있는 대부분의 기술들이 현재 실현되어진 상태
   - 우주로 수학여행 가는 것은 아마 100년 안에는 실현되지 않을 것 같음
-  - 그림을 그릴 때 신문 기사를 맣이 참고한 것으로 보아 거기서 아이디어를 많이 떠올리지 않았을까
+  - 그림을 그릴 때 신문 기사를 많이 참고한 것으로 보아 거기서 아이디어를 많이 떠올리지 않았을까
   - 대부분 불편한 것을 떠올리고 이를 개선하기 위해 만들어진 기술들이 많음
   - 현재는 여러 기술들이 많이 발전되어 있기에 더 떠올려보기는 어렵지 않을까
  
