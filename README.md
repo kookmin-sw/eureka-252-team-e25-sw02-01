@@ -129,6 +129,10 @@
 
 
 
+<img width="1024" height="1024" alt="Gemini_Generated_Image_812dv3812dv3812d" src="https://github.com/user-attachments/assets/68109730-179f-43ce-a5d4-cadda0ca9323" />
+
+<img width="1024" height="1024" alt="Gemini_Generated_Image_zbse34zbse34zbse" src="https://github.com/user-attachments/assets/6167d706-53cc-4090-ba40-7032bbfc3a3f" />
+
 
 
 <!-- 활동 사진 추가 예시 -->
