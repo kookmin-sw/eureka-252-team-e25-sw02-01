@@ -57,6 +57,7 @@
    - 같은 2년이면 중소기업 실무 경험이 더 커리어에 도움이 될 수도 있음
    - 운영체제, 데이터베이스, 컴퓨터네트워크 중요
    - 다양한 경험을 토대로 진로를 구체화하고, 대학원이 필요한지 판단
+   -
 
   
 - 프로젝트 진행 ✔️  (과거 사람들이 생각한 미래1)
@@ -153,10 +154,10 @@
 
 
 
-<!-- 활동 사진 추가 예시 -->
-<img src="https://pixnio.com/free-images/2017/08/14/2017-08-14-13-09-09-960x651.jpg?text=활동사진1" width="330" height="190"/>
-<img src="https://pixnio.com/free-images/2017/08/14/2017-08-14-20-51-02-960x640.jpg?text=활동사진2" width="330" height="190"/>
-<img src="https://pixnio.com/free-images/2017/08/15/2017-08-15-10-05-39-960x640.jpg?text=활동사진3" width="330" height="190"/>
+<활동 사진>
+<img width="849" height="511" alt="스크린샷 2025-11-25 14-44-31" src="https://github.com/user-attachments/assets/d7feb099-1592-4020-8f9a-9c5e7ca3a9e1" />
+<img width="925" height="513" alt="스크린샷 2025-11-25 14-44-15" src="https://github.com/user-attachments/assets/fca64600-b459-4427-a37f-9fff586335dd" />
+
 
 ***
 
